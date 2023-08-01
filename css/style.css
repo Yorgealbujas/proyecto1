@@ -129,3 +129,19 @@ body{
     margin-bottom:30px;
     font-size:1.2rem;
 }
+
+.footer__info{
+    color: #fff;
+    line-height: 30px;
+    font-size: 1.0rem;
+}
+
+.footer__link:nth-child(1){
+    border-left: 2px solid #c26d6d;
+}
+.footer__link:nth-child(2){
+    border-left: 2px solid #6e4141;
+}
+.footer__link:nth-child(3){
+    border-left: 2px solid #4b3030;
+}
