@@ -137,11 +137,18 @@ body{
 }
 
 .footer__link:nth-child(1){
-    border-left: 2px solid #c26d6d;
+    border-left: 2px solid #ffffff;
 }
 .footer__link:nth-child(2){
-    border-left: 2px solid #6e4141;
+    border-left: 2px solid #f8dddd;
 }
 .footer__link:nth-child(3){
-    border-left: 2px solid #4b3030;
+    border-left: 2px solid #ffcaca;
+}
+
+.footer-credits{
+    width: 100%;
+    color:#ffcaca;
+    text-align: center;
+    background-color: #d893b9;
 }
